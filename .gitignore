@@ -2,6 +2,13 @@
 index.html
 testing.js
 node_modules/
+.wwwebjs_auth/
+.wwwebjs_cache/
+.session/
+.session.json
 .wwebjs_cache/2.3000.1027174263.html
 .wwebjs_cache/2.3000.1027184740.html
 .wwebjs_cache/2.3000.1027180414.html
+.wwebjs_auth/
+.gitignore
+session.json/
